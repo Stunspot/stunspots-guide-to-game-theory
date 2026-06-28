@@ -1,0 +1,8 @@
+title: Stunspot's Guide to Game Theory
+description: A practical canon for game theory knowledge, reasoning, and AI/RAG use.
+show_downloads: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
