@@ -27,7 +27,7 @@ Out of scope:
 
 - Vulnerabilities in GitHub itself.
 - Vulnerabilities in third-party model providers or RAG tools.
-- General macroeconomic, legal, financial, or investment advice disputes.
+- Strategic, legal, financial, policy, military, or institutional advice disputes.
 - Runtime bugs in software not contained in this repository.
 
 ## Handling Expectations
