@@ -6,6 +6,11 @@ Release date: 2026-06-28
 
 Source directory: Local build source directory omitted from public release. Source filenames and generated repo paths are preserved below.
 
+## Citation and Archive
+
+**DOI:** https://doi.org/10.5281/zenodo.21039265  
+**Zenodo Record:** https://zenodo.org/records/21039265
+
 ## Public Positioning
 
 **Stunspot's Guide to Game Theory** is the Strategic Systems Canon: a model-facing knowledge canon for incentives, interdependence, equilibrium, institutional design, strategic failure, and long-run governance.
