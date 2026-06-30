@@ -9,19 +9,15 @@ authors:
     affiliation: "Collaborative Dynamics"
 version: "1.0"
 date-released: "2026-06-28"
-license: "CC-BY-NC-SA-4.0"
+license: "CC-BY-4.0"
 doi: "10.5281/zenodo.21039265"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.21039265"
 url: "https://stunspot.github.io/stunspots-guide-to-game-theory/"
 repository-code: "https://github.com/Stunspot/stunspots-guide-to-game-theory"
-abstract: "A model-facing strategic-systems knowledge canon for game theory, covering incentives, interdependence, equilibrium, information, commitment, bargaining, repeated interaction, mechanism design, network externalities, strategic failure, system reconstruction, and institutional evolution."
+abstract: "A model-facing game theory canon for AI/RAG knowledge workflows."
 keywords:
   - "game-theory"
-  - "strategic-systems"
-  - "mechanism-design"
-  - "institutional-engineering"
-  - "strategic-analysis"
-  - "rag"
   - "knowledge-systems"
+  - "rag"
