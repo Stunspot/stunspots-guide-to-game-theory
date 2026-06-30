@@ -7,7 +7,7 @@
     "date_released": "2026-06-28",
     "abstract": "A model-facing strategic-systems knowledge canon for incentives, interdependence, equilibrium, institutional design, strategic failure, and long-run governance.",
     "primary_audience": "AI/RAG systems, long-context workspaces, agent memory layers, and strategic-analysis assistants.",
-    "license": "CC BY-NC-SA 4.0",
+    "license": "Creative Commons Attribution 4.0 International",
     "author": "Sam “stunspot” Walker / Collaborative Dynamics"
   },
   "repository": {
@@ -16,251 +16,22 @@
     "github_url": "https://github.com/Stunspot/stunspots-guide-to-game-theory",
     "pages_url": "https://stunspot.github.io/stunspots-guide-to-game-theory/",
     "citation_metadata": "CITATION.cff",
-    "zenodo_metadata": null,
     "directory_policy": {
       "docs": "Navigation and GitHub Pages guidance only.",
       "knowledge-packs/by-report": "Canonical individual source reports.",
       "knowledge-packs/compiled-packs": "Grouped upload packs for AI/RAG systems.",
       "knowledge-packs/omnibus": "Whole-corpus bundle.",
       "docs/reports": "Not used."
-    },
-    "repository_files": [
-      ".gitattributes",
-      ".gitignore",
-      ".github/ISSUE_TEMPLATE/broken-link-or-file-issue.yml",
-      ".github/ISSUE_TEMPLATE/config.yml",
-      ".github/ISSUE_TEMPLATE/source-quality-or-citation-note.yml",
-      ".github/ISSUE_TEMPLATE/typo-or-clarity-fix.yml",
-      ".github/pull_request_template.md",
-      "README.md",
-      "LICENSE.md",
-      "CITATION.cff",
-      "CHANGELOG.md",
-      "CONTRIBUTING.md",
-      "MANIFEST.md",
-      "SECURITY.md",
-      "STATUS.md",
-      "SUPPORT.md",
-      "manifest.json",
-      "docs/index.md",
-      "docs/canon-map.md",
-      "docs/how-to-use-this-canon.md",
-      "docs/knowledge-packs.md",
-      "docs/_config.yml",
-      "docs/_layouts/default.html",
-      "docs/assets/brand/coldwire-bg.jpg",
-      "docs/assets/css/style.css",
-      "knowledge-packs/by-report/a-the-geometry-of-strategic-conflict.md",
-      "knowledge-packs/by-report/b-equilibrium-and-information.md",
-      "knowledge-packs/by-report/c-strategic-representation-and-formalization.md",
-      "knowledge-packs/by-report/d-sequential-strategy-and-dynamic-commitment.md",
-      "knowledge-packs/by-report/e-bargaining-coalition-pressure-and-surplus-division.md",
-      "knowledge-packs/by-report/f-repeated-interaction-reputation-and-the-shadow-of-the-future.md",
-      "knowledge-packs/by-report/g-mechanism-design-and-institutional-engineering.md",
-      "knowledge-packs/by-report/h-evolutionary-and-population-game-dynamics.md",
-      "knowledge-packs/by-report/i-networked-games-externalities-and-systemic-inefficiency.md",
-      "knowledge-packs/by-report/j-strategic-failure-and-diagnostic-analysis.md",
-      "knowledge-packs/by-report/k-system-reconstruction-and-applied-strategic-method.md",
-      "knowledge-packs/by-report/l-institutional-evolution-and-strategic-ecology.md",
-      "knowledge-packs/compiled-packs/knowledge-game-theory-vol-1-a-c-foundations-of-strategic-reality.md",
-      "knowledge-packs/compiled-packs/knowledge-game-theory-vol-2-d-g-major-operating-domains.md",
-      "knowledge-packs/compiled-packs/knowledge-game-theory-vol-3-h-j-constraint-and-specialization-layers.md",
-      "knowledge-packs/compiled-packs/knowledge-game-theory-vol-4-k-l-diagnostic-and-execution-layers.md",
-      "knowledge-packs/omnibus/knowledge-game-theory-omnibus.md"
-    ],
-    "reserved_visual_assets": [
-      "docs/assets/brand/readme-hero.png",
-      "docs/assets/brand/pages-hero.png",
-      "docs/assets/brand/social-preview.png"
-    ]
+    }
   },
-  "corpus": {
-    "generated_at": "2026-06-28T22:17:23+00:00",
-    "source_directory_policy": "Local build source directory omitted from public release. Source filenames and generated repo paths are preserved below.",
-    "counts": {
-      "source_reports": 12,
-      "compiled_packs": 4,
-      "omnibus_files": 1,
-      "unclassified_files": 0
-    },
-    "reports": [
-      {
-        "code": "A",
-        "title": "The Geometry of Strategic Conflict",
-        "subtitle": "An Ontology of Incentives, Interdependence, and Equilibrium",
-        "source_filename": "A. The Geometry of Strategic Conflict — An Ontology of Incentives, Interdependence, and Equilibrium.md",
-        "source_path": "A. The Geometry of Strategic Conflict — An Ontology of Incentives, Interdependence, and Equilibrium.md",
-        "filename": "a-the-geometry-of-strategic-conflict.md",
-        "path": "knowledge-packs/by-report/a-the-geometry-of-strategic-conflict.md",
-        "size_bytes": 30506,
-        "pack_type": "source_report"
-      },
-      {
-        "code": "B",
-        "title": "Equilibrium and Information",
-        "subtitle": "Stability, Beliefs, and Strategic Knowledge Systems",
-        "source_filename": "B. Equilibrium and Information — Stability, Beliefs, and Strategic Knowledge Systems.md",
-        "source_path": "B. Equilibrium and Information — Stability, Beliefs, and Strategic Knowledge Systems.md",
-        "filename": "b-equilibrium-and-information.md",
-        "path": "knowledge-packs/by-report/b-equilibrium-and-information.md",
-        "size_bytes": 48115,
-        "pack_type": "source_report"
-      },
-      {
-        "code": "C",
-        "title": "Strategic Representation and Formalization",
-        "subtitle": "Modeling Strategic Reality with Matrices, Trees, Information Sets, and Type Spaces",
-        "source_filename": "C. Strategic Representation and Formalization — Modeling Strategic Reality with Matrices, Trees, Information Sets, and Type Spaces.md",
-        "source_path": "C. Strategic Representation and Formalization — Modeling Strategic Reality with Matrices, Trees, Information Sets, and Type Spaces.md",
-        "filename": "c-strategic-representation-and-formalization.md",
-        "path": "knowledge-packs/by-report/c-strategic-representation-and-formalization.md",
-        "size_bytes": 39503,
-        "pack_type": "source_report"
-      },
-      {
-        "code": "D",
-        "title": "Sequential Strategy and Dynamic Commitment",
-        "subtitle": "Timing, Credibility, and Subgame Structure",
-        "source_filename": "D. Sequential Strategy and Dynamic Commitment — Timing, Credibility, and Subgame Structure.md",
-        "source_path": "D. Sequential Strategy and Dynamic Commitment — Timing, Credibility, and Subgame Structure.md",
-        "filename": "d-sequential-strategy-and-dynamic-commitment.md",
-        "path": "knowledge-packs/by-report/d-sequential-strategy-and-dynamic-commitment.md",
-        "size_bytes": 47253,
-        "pack_type": "source_report"
-      },
-      {
-        "code": "E",
-        "title": "Bargaining, Coalition Pressure, and Surplus Division",
-        "subtitle": "Strategic Settlement Under Conflict and Mutual Dependence",
-        "source_filename": "E. Bargaining, Coalition Pressure, and Surplus Division — Strategic Settlement Under Conflict and Mutual Dependence.md",
-        "source_path": "E. Bargaining, Coalition Pressure, and Surplus Division — Strategic Settlement Under Conflict and Mutual Dependence.md",
-        "filename": "e-bargaining-coalition-pressure-and-surplus-division.md",
-        "path": "knowledge-packs/by-report/e-bargaining-coalition-pressure-and-surplus-division.md",
-        "size_bytes": 42879,
-        "pack_type": "source_report"
-      },
-      {
-        "code": "F",
-        "title": "Repeated Interaction, Reputation, and the Shadow of the Future",
-        "subtitle": "Cooperation, Punishment, and Relational Stability",
-        "source_filename": "F. Repeated Interaction, Reputation, and the Shadow of the Future — Cooperation, Punishment, and Relational Stability.md",
-        "source_path": "F. Repeated Interaction, Reputation, and the Shadow of the Future — Cooperation, Punishment, and Relational Stability.md",
-        "filename": "f-repeated-interaction-reputation-and-the-shadow-of-the-future.md",
-        "path": "knowledge-packs/by-report/f-repeated-interaction-reputation-and-the-shadow-of-the-future.md",
-        "size_bytes": 38347,
-        "pack_type": "source_report"
-      },
-      {
-        "code": "G",
-        "title": "Mechanism Design and Institutional Engineering",
-        "subtitle": "Designing Rules So Incentives Produce Desired Outcomes",
-        "source_filename": "G. Mechanism Design and Institutional Engineering — Designing Rules So Incentives Produce Desired Outcomes.md",
-        "source_path": "G. Mechanism Design and Institutional Engineering — Designing Rules So Incentives Produce Desired Outcomes.md",
-        "filename": "g-mechanism-design-and-institutional-engineering.md",
-        "path": "knowledge-packs/by-report/g-mechanism-design-and-institutional-engineering.md",
-        "size_bytes": 54481,
-        "pack_type": "source_report"
-      },
-      {
-        "code": "H",
-        "title": "Evolutionary and Population Game Dynamics",
-        "subtitle": "Strategy Without Deliberation",
-        "source_filename": "H. Evolutionary and Population Game Dynamics — Strategy Without Deliberation.md",
-        "source_path": "H. Evolutionary and Population Game Dynamics — Strategy Without Deliberation.md",
-        "filename": "h-evolutionary-and-population-game-dynamics.md",
-        "path": "knowledge-packs/by-report/h-evolutionary-and-population-game-dynamics.md",
-        "size_bytes": 48468,
-        "pack_type": "source_report"
-      },
-      {
-        "code": "I",
-        "title": "Networked Games, Externalities, and Systemic Inefficiency",
-        "subtitle": "Coordination Failure, Congestion, and the Price of Anarchy",
-        "source_filename": "I. Networked Games, Externalities, and Systemic Inefficiency — Coordination Failure, Congestion, and the Price of Anarchy.md",
-        "source_path": "I. Networked Games, Externalities, and Systemic Inefficiency — Coordination Failure, Congestion, and the Price of Anarchy.md",
-        "filename": "i-networked-games-externalities-and-systemic-inefficiency.md",
-        "path": "knowledge-packs/by-report/i-networked-games-externalities-and-systemic-inefficiency.md",
-        "size_bytes": 47712,
-        "pack_type": "source_report"
-      },
-      {
-        "code": "J",
-        "title": "Strategic Failure and Diagnostic Analysis",
-        "subtitle": "Hidden Incentives, Fragility, and System Reconstruction",
-        "source_filename": "J. Strategic Failure and Diagnostic Analysis — Hidden Incentives, Fragility, and System Reconstruction.md",
-        "source_path": "J. Strategic Failure and Diagnostic Analysis — Hidden Incentives, Fragility, and System Reconstruction.md",
-        "filename": "j-strategic-failure-and-diagnostic-analysis.md",
-        "path": "knowledge-packs/by-report/j-strategic-failure-and-diagnostic-analysis.md",
-        "size_bytes": 45495,
-        "pack_type": "source_report"
-      },
-      {
-        "code": "K",
-        "title": "System Reconstruction and Applied Strategic Method",
-        "subtitle": "Modeling Workflow, Validation, and Decision Support",
-        "source_filename": "K. System Reconstruction and Applied Strategic Method — Modeling Workflow, Validation, and Decision Support.md",
-        "source_path": "K. System Reconstruction and Applied Strategic Method — Modeling Workflow, Validation, and Decision Support.md",
-        "filename": "k-system-reconstruction-and-applied-strategic-method.md",
-        "path": "knowledge-packs/by-report/k-system-reconstruction-and-applied-strategic-method.md",
-        "size_bytes": 49747,
-        "pack_type": "source_report"
-      },
-      {
-        "code": "L",
-        "title": "Institutional Evolution and Strategic Ecology",
-        "subtitle": "Long-Run Adaptation, Succession, and Civilizational Stability",
-        "source_filename": "L. Institutional Evolution and Strategic Ecology — Long-Run Adaptation, Succession, and Civilizational Stability.md",
-        "source_path": "L. Institutional Evolution and Strategic Ecology — Long-Run Adaptation, Succession, and Civilizational Stability.md",
-        "filename": "l-institutional-evolution-and-strategic-ecology.md",
-        "path": "knowledge-packs/by-report/l-institutional-evolution-and-strategic-ecology.md",
-        "size_bytes": 37933,
-        "pack_type": "source_report"
-      }
-    ],
-    "compiled_packs": [
-      {
-        "label": "Game Theory - Vol. 1 A-C Foundations of Strategic Reality",
-        "source_filename": "[KNOWLEDGE] - Game Theory - Vol. 1 A-C Foundations of Strategic Reality.md",
-        "source_path": "[KNOWLEDGE] - Game Theory - Vol. 1 A-C Foundations of Strategic Reality.md",
-        "dest_path": "knowledge-packs/compiled-packs/knowledge-game-theory-vol-1-a-c-foundations-of-strategic-reality.md",
-        "size_bytes": 118917,
-        "pack_type": "compiled_pack"
-      },
-      {
-        "label": "Game Theory - Vol. 2 D-G Major Operating Domains",
-        "source_filename": "[KNOWLEDGE] - Game Theory - Vol. 2 D-G Major Operating Domains.md",
-        "source_path": "[KNOWLEDGE] - Game Theory - Vol. 2 D-G Major Operating Domains.md",
-        "dest_path": "knowledge-packs/compiled-packs/knowledge-game-theory-vol-2-d-g-major-operating-domains.md",
-        "size_bytes": 183979,
-        "pack_type": "compiled_pack"
-      },
-      {
-        "label": "Game Theory - Vol. 3 H-J Constraint and Specialization Layers",
-        "source_filename": "[KNOWLEDGE] - Game Theory - Vol. 3 H-J Constraint and Specialization Layers.md",
-        "source_path": "[KNOWLEDGE] - Game Theory - Vol. 3 H-J Constraint and Specialization Layers.md",
-        "dest_path": "knowledge-packs/compiled-packs/knowledge-game-theory-vol-3-h-j-constraint-and-specialization-layers.md",
-        "size_bytes": 142449,
-        "pack_type": "compiled_pack"
-      },
-      {
-        "label": "Game Theory - Vol. 4 K-L Diagnostic and Execution Layers",
-        "source_filename": "[KNOWLEDGE] - Game Theory - Vol. 4 K-L Diagnostic and Execution Layers.md",
-        "source_path": "[KNOWLEDGE] - Game Theory - Vol. 4 K-L Diagnostic and Execution Layers.md",
-        "dest_path": "knowledge-packs/compiled-packs/knowledge-game-theory-vol-4-k-l-diagnostic-and-execution-layers.md",
-        "size_bytes": 88523,
-        "pack_type": "compiled_pack"
-      }
-    ],
-    "omnibus": [
-      {
-        "label": "Game Theory - Omnibus",
-        "source_filename": "[KNOWLEDGE] - Game Theory - Omnibus.md",
-        "source_path": "[KNOWLEDGE] - Game Theory - Omnibus.md",
-        "dest_path": "knowledge-packs/omnibus/knowledge-game-theory-omnibus.md",
-        "size_bytes": 534028,
-        "pack_type": "omnibus"
-      }
-    ],
-    "unclassified": []
-  }
+  "counts": {
+    "source_reports": 12,
+    "compiled_packs": 4,
+    "omnibus_files": 1
+  },
+  "source_authority_notes": [
+    "Source reports are the canonical individual units.",
+    "Compiled packs and omnibus files are convenience formats.",
+    "MANIFEST.md preserves source-to-output mapping details."
+  ]
 }
