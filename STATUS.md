@@ -2,7 +2,7 @@
 
 *Stunspot's Guide to Game Theory* is a **v1.0 first public release** of a model-authored strategic-systems knowledge canon.
 
-This repository is stable enough for AI/RAG ingestion, citation, review, and public reference. It should still be treated as a knowledge corpus requiring normal source judgment, especially for high-impact legal, financial, policy, safety, military, or institutional decisions.
+This repository is stable enough for AI/RAG ingestion, citation, review, and public reference. It should still be treated as a knowledge corpus requiring normal source judgment.
 
 ## Release Facts
 
@@ -11,7 +11,7 @@ This repository is stable enough for AI/RAG ingestion, citation, review, and pub
 - Source reports: **12**
 - Compiled packs: **4**
 - Omnibus files: **1**
-- License: **CC BY-NC-SA 4.0**
+- License: **Creative Commons Attribution 4.0 International**
 - Citation metadata: `CITATION.cff`
 - Zenodo metadata: not included in this release package
 
