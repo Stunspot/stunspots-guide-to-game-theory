@@ -199,7 +199,7 @@ The README, docs landing page, and HTML metadata reserve image paths for future 
 - Released: **2026-06-28**
 - License: **Creative Commons Attribution 4.0 International**
 - Citation metadata: [`CITATION.cff`](./CITATION.cff)
-- Zenodo metadata: not included in this release package
+- DOI: `10.5281/zenodo.21039265`
 
 GitHub: https://github.com/Stunspot/stunspots-guide-to-game-theory  
 Pages URL, after GitHub Pages is enabled: https://stunspot.github.io/stunspots-guide-to-game-theory/
