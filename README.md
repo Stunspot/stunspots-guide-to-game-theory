@@ -208,6 +208,6 @@ Pages URL, after GitHub Pages is enabled: https://stunspot.github.io/stunspots-g
 
 ## Disclaimer
 
-This corpus is a model-authored knowledge release intended for education, research, design, strategy, and AI/RAG reference use. It is dense by design and should be treated as a structured analytical substrate, not as legal, financial, policy, or safety advice. Verify high-impact claims before relying on them.
+This corpus is a model-authored knowledge release intended for education, research, design, strategy, and AI/RAG reference use. It is dense by design and should be treated as a structured analytical substrate, not as legal, financial, military, policy, or safety advice. Verify high-impact claims before relying on them.
 
 --stunspot | ⟨🤩⨯📍⟩ and 💠‍🌐Nova
